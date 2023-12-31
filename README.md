@@ -16,8 +16,6 @@
 ## Environment
 
 - Python 3.x
-- numpy
-- pandas
 
 ## Usage
 ### wamo_repair.py
